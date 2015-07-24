@@ -2,6 +2,7 @@ import java.text.SimpleDateFormat;
 
 public class Test {
     
+    //1
     static class vox {
         static int a;
     }
